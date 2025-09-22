@@ -92,7 +92,10 @@ The app promotes sustainable farming. By giving precise advice, it helps farmers
 
 ## Research and References
 
-<l>Smart farming in India: Precision techniques(www.leher.ag)</l>
-<l>How are Agritech Startups Revolutionising farming practices in india(www.startupindia.gov.in)</l>
-<l>Advantages of precision agriculture. Enhancing farming efficiency(www.allynav.com)</l>
-<l>Harnessing digital tehnology to improve agricultural productivity(pmc.ncbi.nlm.nih.gov)</l>
+Smart farming in India: Precision techniques(www.leher.ag)
+
+How are Agritech Startups Revolutionising farming practices in india(www.startupindia.gov.in)
+
+Advantages of precision agriculture. Enhancing farming efficiency(www.allynav.com)
+
+Harnessing digital tehnology to improve agricultural productivity(pmc.ncbi.nlm.nih.gov)
